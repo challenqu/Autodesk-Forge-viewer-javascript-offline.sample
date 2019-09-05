@@ -1,5 +1,5 @@
 ## Offline viewing sample for Autodesk Viewer
-[![Viewer](https://img.shields.io/badge/Viewer-v6-green.svg)](https://forge.autodesk.com/en/docs/viewer/v6/developers_guide/overview/)
+[![Viewer](https://img.shields.io/badge/Viewer-v7-green.svg)](https://forge.autodesk.com/en/docs/viewer/v6/developers_guide/overview/)
 
 ## Description
 This repository demonstrates a self-contained Forge Viewer application, with all the necessary dependencies and resources hosted on your own server, independent of any Forge API endpoints.
